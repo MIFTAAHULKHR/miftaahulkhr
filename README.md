@@ -13,7 +13,6 @@
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-2d2d2d?style=flat&logo=c&logoColor=aaa)
 ![C++](https://img.shields.io/badge/C++-2d2d2d?style=flat&logo=cplusplus&logoColor=aaa)
 ![Python](https://img.shields.io/badge/Python-2d2d2d?style=flat&logo=python&logoColor=aaa)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2d2d2d?style=flat&logo=typescript&logoColor=aaa)
