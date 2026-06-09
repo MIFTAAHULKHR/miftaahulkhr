@@ -1,14 +1,6 @@
 <div align="center">
 
-# miftah.
-
 *Security · Systems · Networks*
-
-[![Profile views](https://komarev.com/ghpvc/?username=miftahulkhoiriyah&color=444&style=flat&label=profile+views)](https://github.com/miftahulkhoiriyah)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/miftahulkhoiriyah?label=followers&style=flat&color=444)](https://github.com/miftahulkhoiriyah?tab=followers)
-&nbsp;
-![Status](https://img.shields.io/badge/status-open%20to%20collaborate-lightgrey?style=flat)
 
 </div>
 
