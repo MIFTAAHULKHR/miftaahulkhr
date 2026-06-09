@@ -1,12 +1,9 @@
+<!-- animated terminal header — works on GitHub (SVG with CSS animations) -->
 <div align="center">
-
-# 👋 Hi, I'm miftah.
-
-**`Security · Systems · Networks`**
-
+  <img src="https://raw.githubusercontent.com/miftahulkhoiriyah/miftahulkhoiriyah/main/terminal.svg" alt="terminal header" />
 </div>
 
-<br/>
+&nbsp;
 
 ---
 
@@ -14,6 +11,7 @@
 
 <div align="center">
 
+![C](https://img.shields.io/badge/C-2d2d2d?style=flat&logo=c&logoColor=aaa)
 ![C++](https://img.shields.io/badge/C++-2d2d2d?style=flat&logo=cplusplus&logoColor=aaa)
 ![Python](https://img.shields.io/badge/Python-2d2d2d?style=flat&logo=python&logoColor=aaa)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2d2d2d?style=flat&logo=typescript&logoColor=aaa)
@@ -39,8 +37,6 @@
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=miftahulkhoiriyah&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=2a2a2a&title_color=e8e8e8&text_color=aaa&icon_color=777&hide_border=false&count_private=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miftahulkhoiriyah&layout=compact&theme=dark&bg_color=0d0d0d&border_color=2a2a2a&title_color=e8e8e8&text_color=aaa&hide_border=false" />
 
 </div>
 
@@ -52,7 +48,7 @@
 
 ---
 
-<br/>
+&nbsp;
 
 <div align="center">
   <sub>The goal is, to learn.</sub>
