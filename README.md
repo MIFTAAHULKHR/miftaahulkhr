@@ -35,4 +35,6 @@
 
 &nbsp;
 
-
+<div align="center">
+  <sub><i>the goal is, to learn.</i></sub>
+</div>
