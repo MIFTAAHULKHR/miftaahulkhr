@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔐 miftahulkhoiriyah
+# 👋 Hi, I'm miftah.
 
 **`Security · Systems · Networks`**
 
@@ -14,7 +14,6 @@
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-2d2d2d?style=flat&logo=c&logoColor=aaa)
 ![C++](https://img.shields.io/badge/C++-2d2d2d?style=flat&logo=cplusplus&logoColor=aaa)
 ![Python](https://img.shields.io/badge/Python-2d2d2d?style=flat&logo=python&logoColor=aaa)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2d2d2d?style=flat&logo=typescript&logoColor=aaa)
@@ -25,8 +24,6 @@
 ![ESP32](https://img.shields.io/badge/ESP32-2d2d2d?style=flat&logo=espressif&logoColor=aaa)
 ![Arduino](https://img.shields.io/badge/Arduino-2d2d2d?style=flat&logo=arduino&logoColor=aaa)
 <br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-2d2d2d?style=flat&logo=mongodb&logoColor=aaa)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2d2d2d?style=flat&logo=postgresql&logoColor=aaa)
 <br/>
 ![Docker](https://img.shields.io/badge/Docker-2d2d2d?style=flat&logo=docker&logoColor=aaa)
 ![Git](https://img.shields.io/badge/Git-2d2d2d?style=flat&logo=git&logoColor=aaa)
@@ -55,16 +52,6 @@
 </div>
 
 ---
-
-### 🌐 CONNECT
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-miftahulkhoiriyah-2d2d2d?style=flat&logo=github&logoColor=aaa)](https://github.com/miftahulkhoiriyah)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-miftahulkhoiriyah-2d2d2d?style=flat&logo=linkedin&logoColor=aaa)](https://linkedin.com/in/miftahulkhoiriyah)
-[![Email](https://img.shields.io/badge/Email-contact-2d2d2d?style=flat&logo=gmail&logoColor=aaa)](mailto:miftahul.123140064@student.itera.ac.id)
-
-</div>
 
 <br/>
 
