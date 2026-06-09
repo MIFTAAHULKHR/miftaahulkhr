@@ -24,7 +24,6 @@
 ![ESP32](https://img.shields.io/badge/ESP32-2d2d2d?style=flat&logo=espressif&logoColor=aaa)
 ![Arduino](https://img.shields.io/badge/Arduino-2d2d2d?style=flat&logo=arduino&logoColor=aaa)
 <br/>
-<br/>
 ![Docker](https://img.shields.io/badge/Docker-2d2d2d?style=flat&logo=docker&logoColor=aaa)
 ![Git](https://img.shields.io/badge/Git-2d2d2d?style=flat&logo=git&logoColor=aaa)
 ![Bash](https://img.shields.io/badge/Bash-2d2d2d?style=flat&logo=gnubash&logoColor=aaa)
@@ -56,5 +55,5 @@
 <br/>
 
 <div align="center">
-  <sub>🧑‍💻 miftah · itera · build things that matter</sub>
+  <sub>The goal is, to learn.</sub>
 </div>
