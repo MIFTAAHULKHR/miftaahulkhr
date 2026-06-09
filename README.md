@@ -1,6 +1,6 @@
 <div align="center">
 
-# nadhez.
+# miftah.
 
 *Security · Systems · Networks*
 
@@ -14,70 +14,6 @@
 
 &nbsp;
 
-```
-MIFTAHUL KHOIRIYAH  ·  Informatics Engineering  ·  Institut Teknologi Sumatera
-────────────────────────────────────────────────────────────────────────────────
-focus      network security · embedded systems · applied cryptography
-currently  IT Intern @ PT Bukit Asam Tbk · Teaching Assistant · HMIF Staff
-location   Bandar Lampung, Indonesia
-```
-
-&nbsp;
-
----
-
-### AREAS OF WORK
-
-**Security Research**
-Offensive and defensive — MITM detection, wireless attack labs (Evil Twin / ESP32),
-OWASP-based vulnerability analysis on live systems, and cryptographic protocol design.
-
-**Embedded Systems**
-ESP32-based IoT for real environments: sensor fusion, NTP time sync, context-aware
-alerting logic, and field-deployed early warning infrastructure.
-
-**Applied Cryptography**
-RSA-2048 OAEP, SHA-256, RSA-PSS signatures — from system architecture through
-implementation, testing, and documentation.
-
----
-
-### SELECTED PROJECTS
-
-&nbsp;
-
-`01` &nbsp; **FEWS — Flood Early Warning System**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ESP32 · Ultrasonic & Rain Sensors · Telegram API · NTP / DS1307 RTC
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Project lead & embedded systems engineer. Day/night-aware alert logic,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dual time-source sync, real-time notification delivery.*
-
-`02` &nbsp; **E-Voting System with RSA-2048 & SHA-256**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python · OpenSSL · RSA-PSS · OAEP
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *System architecture designer & documentation lead. End-to-end
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cryptographic pipeline with avalanche effect verification.*
-
-`03` &nbsp; **MITM Detection Lab**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Network forensics · ARP spoofing detection · Packet analysis
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Detection methodology and lab environment for active MITM identification.*
-
-`04` &nbsp; **Public Website Vulnerability Analysis**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OWASP Top 10 · Reconnaissance · Exploitation Analysis · UU ITE compliance
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Three-phase audit on a live government site — ethically scoped and documented.*
-
-`05` &nbsp; **Evil Twin Attack Lab** *(in progress)*
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ESP32 · External Antenna · Rogue AP · Wireless Security
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Solo lab: simulating and analyzing deceptive access point attacks.*
-
----
-
-### CERTIFICATIONS
-
-```
-AttackIQ   ·  MITRE ATT&CK Fundamentals
-Cisco      ·  Networking & Cybersecurity
-IBM        ·  Technology & Systems
-```
-
 ---
 
 ### TECH
@@ -85,15 +21,22 @@ IBM        ·  Technology & Systems
 ![C](https://img.shields.io/badge/C-1a1a1a?style=flat&logo=c&logoColor=555)
 ![C++](https://img.shields.io/badge/C++-1a1a1a?style=flat&logo=cplusplus&logoColor=555)
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat&logo=python&logoColor=555)
-![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=flat&logo=gnubash&logoColor=555)
-![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat&logo=openjdk&logoColor=555)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat&logo=typescript&logoColor=555)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat&logo=next.js&logoColor=555)
+![Kotlin](https://img.shields.io/badge/Kotlin-1a1a1a?style=flat&logo=kotlin&logoColor=555)
 &nbsp;
+![Android Studio](https://img.shields.io/badge/Android_Studio-1a1a1a?style=flat&logo=android-studio&logoColor=555)
 ![ESP32](https://img.shields.io/badge/ESP32-1a1a1a?style=flat&logo=espressif&logoColor=555)
 ![Arduino](https://img.shields.io/badge/Arduino-1a1a1a?style=flat&logo=arduino&logoColor=555)
 &nbsp;
-![Wireshark](https://img.shields.io/badge/Wireshark-1a1a1a?style=flat&logo=wireshark&logoColor=555)
-![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat&logo=linux&logoColor=555)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=flat&logo=mongodb&logoColor=555)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat&logo=postgresql&logoColor=555)
+&nbsp;
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat&logo=docker&logoColor=555)
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat&logo=git&logoColor=555)
+![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=flat&logo=gnubash&logoColor=555)
+![Wireshark](https://img.shields.io/badge/Wireshark-1a1a1a?style=flat&logo=wireshark&logoColor=555)
+![Bettercap](https://img.shields.io/badge/Bettercap-1a1a1a?style=flat&logo=kali-linux&logoColor=555)
 
 ---
 
@@ -123,12 +66,12 @@ IBM        ·  Technology & Systems
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-miftahulkhoiriyah-1a1a1a?style=flat&logo=linkedin&logoColor=aaa)](https://linkedin.com/in/miftahulkhoiriyah)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-contact-1a1a1a?style=flat&logo=gmail&logoColor=aaa)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-contact-1a1a1a?style=flat&logo=gmail&logoColor=aaa)](mailto:miftahul.123140064@student.itera.ac.id)
 
 </div>
 
 &nbsp;
 
 <div align="center">
-<sub>nadhez · itera · build things that matter</sub>
+<sub>miftah · itera · build things that matter</sub>
 </div>
