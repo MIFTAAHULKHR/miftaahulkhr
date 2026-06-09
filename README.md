@@ -1,6 +1,6 @@
 <!-- animated terminal header — works on GitHub (SVG with CSS animations) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/miftahulkhoiriyah/miftahulkhoiriyah/main/terminal.svg" alt="terminal header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=C9A96E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=miftahul.khoiriyah;network+security+%C2%B7+embedded+systems+%C2%B7+applied+cryptography" alt="Typing SVG" />
 </div>
 
 &nbsp;
