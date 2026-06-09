@@ -9,8 +9,6 @@
 
 ---
 
-### TECH STACK
-
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C++-2d2d2d?style=flat&logo=cplusplus&logoColor=aaa)
