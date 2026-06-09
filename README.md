@@ -9,7 +9,7 @@
 
 ---
 
-### ⚙️ TECH STACK
+### TECH STACK
 
 <div align="center">
 
@@ -35,6 +35,4 @@
 
 &nbsp;
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=0&pause=0&color=888888&center=true&vCenter=true&width=600&height=50&lines=The+goal+is%2C+to+learn." alt="Quote" />
-</div>
+
