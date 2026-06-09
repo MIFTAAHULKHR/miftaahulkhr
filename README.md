@@ -34,24 +34,8 @@
 
 ---
 
-### 📊 GITHUB STATS
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=miftahulkhoiriyah&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=2a2a2a&title_color=e8e8e8&text_color=aaa&icon_color=777&hide_border=false&count_private=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=miftahulkhoiriyah&theme=dark&background=0d0d0d&border=2a2a2a&ring=555&fire=888&currStreakLabel=e8e8e8&sideLabels=777&dates=444&currStreakNum=e8e8e8&sideNums=aaa" />
-
-</div>
-
----
-
 &nbsp;
 
 <div align="center">
-  <sub>The goal is, to learn.</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=0&pause=0&color=888888&center=true&vCenter=true&width=600&height=50&lines=The+goal+is%2C+to+learn." alt="Quote" />
 </div>
